@@ -4,11 +4,11 @@
 
 <div style="margin-left: auto;
             margin-right: auto;
-            width: 50%">
+            width: 30%">
 
 Folly             |  Iris
 :-------------------------:|:-------------------------:
-!<img src="./assets/folly.png"/></p>  |  <img src="./assets/iris.png"/>
+<img src="./assets/folly.png"/></p>  |  <img src="./assets/iris.png"/>
 
 
 </div>
